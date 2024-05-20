@@ -1,0 +1,18 @@
+{
+  "name": "cardano-nft-viewer",
+  "version": "1.0.0",
+  "description": "A simple website to connect Eternl wallet and view Cardano NFTs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "dependencies": {
+    "@meshsdk/core": "^1.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
